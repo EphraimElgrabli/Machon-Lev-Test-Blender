@@ -33,11 +33,11 @@ This script takes an input PDF containing test questions and answers, shuffles t
 
 We welcome contributions to improve this project. Here are some ideas for potential enhancements:
 
-- [ ]**Multilingual Support**: Add support for generating test papers in languages other than Hebrew.
+- [ ] Multilingual Support: Add support for generating test papers in languages other than Hebrew.
 
-- [ ]**Exam with Pictures**: Extend the script to handle PDFs that include images alongside text.
+- [ ] Exam with Pictures: Extend the script to handle PDFs that include images alongside text.
 
-- [ ]**Beautiful Code Snippets**: Utilize the Ray.so API to generate beautiful code snippets with syntax highlighting.
+- [ ] Beautiful Code Snippets: Utilize the Ray.so API to generate beautiful code snippets with syntax highlighting.
 
 To contribute, follow these steps:
 
