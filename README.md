@@ -9,7 +9,7 @@ This script takes an input PDF containing test questions and answers, shuffles t
 ## Usage
 
 1. Open the provided Jupyter Notebook file (`Machon_Lev_Test_Blender.ipynb`) in a Google Colab (Jupyter Notebook environment).
-   by clicking here --> [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/EphraimElgrabli/Machon-Lev-Test-Blender/blob/main/TestMixer.ipynb)
+   by clicking here --> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EphraimElgrabli/Machon-Lev-Test-Blender/blob/main/TestMixer.ipynb)
 
 3. Execute the code cells in the notebook by clicking the two "play" buttons one after the other.
 
