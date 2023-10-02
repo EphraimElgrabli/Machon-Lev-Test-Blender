@@ -25,7 +25,7 @@ This script takes an input PDF containing test questions and answers, shuffles t
 
 - You can download the generated PDF using the "Download" button displayed in the notebook.
 
-**Customize:**
+## Customize
 
 - You can modify the script to change fonts, formatting, or other aspects of the generated PDF by adjusting the code within the notebook.
 
@@ -54,11 +54,7 @@ To contribute, follow these steps:
 Your PR will be reviewed, and once approved, it will be merged.
 
 
-**Questions:**
-
-- If you have questions or need assistance, feel free to contact the project contributors.
-
-**Credits:**
+## Credits
 
 - Original idea and assitence by Shira Hoffman.
 
