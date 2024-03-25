@@ -53,11 +53,4 @@ To contribute, follow these steps:
 
 Your PR will be reviewed, and once approved, it will be merged.
 
-
-## Credits
-
-- by me. ᕕ( ᐛ )ᕗ
-
-For detailed instructions and examples, refer to the Jupyter Notebook.
-
-Enjoy using Machon Lev Test Blender for your educational needs! 😊
+*Enjoy using Machon Lev Test Blender for your educational needs! 😊
