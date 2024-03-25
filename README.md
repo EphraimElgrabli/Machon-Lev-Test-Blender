@@ -56,9 +56,7 @@ Your PR will be reviewed, and once approved, it will be merged.
 
 ## Credits
 
-- Original idea and assitence by Shira Hoffman.
-
-- Colab version by me. ᕕ( ᐛ )ᕗ
+- by me. ᕕ( ᐛ )ᕗ
 
 For detailed instructions and examples, refer to the Jupyter Notebook.
 
